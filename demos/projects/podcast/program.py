@@ -15,7 +15,7 @@ def show_header():
 
 
 def display_results():
-    # This is updated since the video recording. (Oner anber)
+    # This is updated since the video recording. (Oner Naber)
     # We had to trim back the episode list so I changed
     # this code to use the moving numbers from the RSS feed
     # as they change over time.
